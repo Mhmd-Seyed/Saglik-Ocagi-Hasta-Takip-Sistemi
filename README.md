@@ -13,8 +13,6 @@ A robust desktop application designed to streamline patient registration, appoin
 - **Database:** Microsoft SQL Server
 - **Architecture:** Tiered Architecture (Logic, Data, UI)
 
-## 📸 Screenshots
-*(Tip: Add your screenshots here to show off the UI!)*
 ## ⚙️ How to Run
 1. Clone the repository.
 2. Open the solution file `.sln` in **Visual Studio**.
